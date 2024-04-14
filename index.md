@@ -8,7 +8,9 @@
 ``` javascript
 var myVar = "Hello World!";
 ```
-
+- [ ]  Turn on GitHub Pages
+- [ ]  Outlinne my portfolio
+- [ ]  Introduce myself to the world
 
 ###### This is an `<h6>` header, which is the smallest
 
